@@ -10,3 +10,10 @@ int main(){
     return 0;
 }
 
+<<<<<<< HEAD
+=======
+sum(int a,int b){
+
+    return a + b;
+}
+>>>>>>> math-feature
